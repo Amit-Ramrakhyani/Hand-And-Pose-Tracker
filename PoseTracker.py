@@ -7,7 +7,7 @@ mpPose = mp.solutions.pose
 pose = mpPose.Pose()
 
 # cap = cv2.VideoCapture(0)
-cap = cv2.VideoCapture('1.mp4')
+cap = cv2.VideoCapture('//path//to//video')
 pTime = 0
 
 while True:
